@@ -3,13 +3,14 @@
 <h1 align="center">👋 Hello! I am Kiril! </h1>
 <h3 align="center">A passionate Front-End Engineer that loves code logic and interactive UI design.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sprucegabriela&label=Profile%20views&color=0e75b6&style=flat" alt="sprucegabriela" /> </p>
+
 
 - 📝 I study Product Design in Kingston University, London
 
 -  ⚡ Part-time Web Designer and Developer
 
 - 🌱 Outside of work I like motorcycling, kitesurfing and snowboarding
+
 
 
 <h3 align="left">Languages and Tools:</h3>
