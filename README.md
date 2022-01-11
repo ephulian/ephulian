@@ -10,13 +10,13 @@
 <br/>
 <br/>
 <br/>
-- 📝 I study Product Design in Kingston University, London
+📝 I study Product Design in Kingston University, London 📝 
 <br/>
 <br/>
--  ⚡ Part-time Web Designer and Developer
+ ⚡ Part-time Web Designer and Developer  ⚡ 
 <br/>
 <br/>
-- 🌱 Outside of work I like motorcycling, kitesurfing and snowboarding
+🌱 Outside of work I like motorcycling, kitesurfing and snowboarding 🌱 
 <br/>
 <br/>
 <br/>
