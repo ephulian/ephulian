@@ -4,6 +4,8 @@
 <br/>
 <br/>
 <h3 align="center">A passionate Front-End Engineer that loves code logic and interactive UI design.</h3>
+
+<p align="center">
 <br/>
 <br/>
 <br/>
@@ -21,6 +23,7 @@
 <br/>
 <br/>
 <br/>
+<p>
 <!-- <h3 align="right">Languages and Tools:</h3>
 <br/>
 <br/> -->
