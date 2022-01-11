@@ -2,15 +2,19 @@
 
 <h1 align="center">👋 Hello! I am Kiril! </h1>
 <h3 align="center">A passionate Front-End Engineer that loves code logic and interactive UI design.</h3>
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
 - 📝 I study Product Design in Kingston University, London
-
+<br/>
 -  ⚡ Part-time Web Designer and Developer
-
+<br/>
 - 🌱 Outside of work I like motorcycling, kitesurfing and snowboarding
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 <h3 align="left">Languages and Tools:</h3>
