@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hello! I am Kiril! </h1>
 <br/>
 <br/>
-<h3 align="center">A passionate Front-End Engineer that loves code logic and interactive UI design.</h3>
+<h3 align="center">A Front-End Engineer with a passion for code logic and interactive UI design.</h3>
 
 <p align="center">
 <br/>
